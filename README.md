@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kashyap1998
 - 👀 I’m interested in coding and making websites 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning javascript and html css
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me ...
 
